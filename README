@@ -1,0 +1,20 @@
+A python program that detects a face within a list of pictures and matches them, showing their name and percentage match.
+
+First, put whatever pictures of people that you want scanned in the ImagesAttendance folder.
+These pictures are then scanned to find their exact measurements on the face, which will be used to calculate if other faces are the same or not.
+
+Then, run the program and your webcam will be turned on. You will then show faces that you want scanned to the webcam.
+If the face being scanned is within the ImagesAttendance folder, then the face should correctly be detected as the filename being used as the name.
+
+It will also show you a percentage of how similar the face is to the one scanned in the ImagesAttendance folder.
+How this works is the difference of measurements on the face file are compared to the calculated face measurements of the face being shown towards the webcam. 
+The comparisons usually yield a value, 0.3 being pretty much a complete match, and any higher number (up to around 1) being less and less similar to the face from your file. 
+
+Finally, the names are then appended to a .csv file, called Attendance.csv. This file will include the name of the individual correctly scanned, and the time they were scanned.
+It is in the format H:MM:SS.
+
+Alternatively, there is an excel file named logbook.xlsx that will open and add a new entry every time a new person is scanned (no previously added people are added again).
+Every time a new entry will be added, the program closes any application that you wish to have opened the excel file (I do not have excel installed, so the applications name 
+is "UltimateFileViewer.exe" in the code), and the program will open again every time the table is updated.
+
+That pretty much sums up everything, so have fun scanning your faces!
