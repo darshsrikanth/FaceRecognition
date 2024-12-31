@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c839e03b-f436-4b13-8001-63fe6369970c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FacialRecognition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Attendance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImagesAttendance/jonjones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImagesAttendance/leonardo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImagesAttendance/mark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImagesAttendance/theo von.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImagesAttendance/timchal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImagesAttendance/willsmith.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logbook.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2qv2IkDx8dYDJbGXHc2H3HvaAIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Attendance.executor": "Run",
+    "Python.Basics.executor": "Run",
+    "Python.close.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Darsh/PycharmProjects/FacialRecognition/ImagesAttendance",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Darsh\PycharmProjects\FacialRecognition\ImagesAttendance" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Darsh\PycharmProjects\FacialRecognition" />
+      <recent name="C:\Users\Darsh\PycharmProjects\FacialRecognition\ImagesBasic" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c839e03b-f436-4b13-8001-63fe6369970c" name="Changes" comment="" />
+      <created>1735528651104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735528651104</updated>
+    </task>
+    <servers />
+  </component>
+</project>
